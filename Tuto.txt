@@ -1,0 +1,62 @@
+
+         ████████     ██     ████████     ██     ███████     ███████     ██      
+            ██        ██        ██        ██     ██          ██          ██      
+            ██        ██        ██        ██     █████       █████       ██      
+            ██        ██        ██        ██     ██          ██          ██      
+            ██        ██        ██        ██     ██          ███████     ███████
+                                                                   		      
+	            [++++++++++] https://t.me/Titifel [++++++++++]
+                     [++++] https://t.me/Titifel_ToolsPrv8 [++++]
+
+Hello Guys Hope you Doing Well :)  So Today we will see The T.LARAVEL_ExV2
+
+1)- Open a cmd ANd Write "py TExV2.py"
+
+2)- For The Prv8 Grabber By Dorks is To Grabb Website From Dorks Like Laravel Dorks 
+
+3)-  For The Prv8 Leakix Grabber is To Grabb ip list From Leakix Database using Dork OR Keyword
+
+4)- After U Grabb Domain From Prv8 Grabber By Dorks, use DomainToIp + Auto Remove Duplicated IP To Get Ip From Them
+
+5)- Then Use Ip Ranger To Range The IP u Got From Prv8 Grabber By Dorks & Prv8 Leakix Grabber
+
+6)- After that Use The Prv8 Reverse Ip To Get Domain From Ip list 
+
+7)- Remove Duplicated Sites From ure Site List Using The Option 6
+
+8)- Split Ure Site List Using The Option 7   
+
+9)- Scanne For Laravel Using Prv8 Laravel Scanner
+
+10)- Use The Prv8 Laravel RCE Or Prv8 SmTp Grabber To Crack Smtp (Option 9 For Prv8 Laravel RCE & Option 10 For SmTp Grabber )
+
+11)- Finally Check The Smtp Result Using Prv8 SmTp Checker + Auto Test Via Email
+
+
+NOTE!!:
+
+==> The Prv8_Smtp_Grabber Work Auto By Brute frocing Sites From Titifel_Results/Titifel_Laravel.txt , So try Always Put Laravel Sites on The Titifel_Laravel.txt
+  
+==> Put Your Email On "email.txt" To Get Test via Your Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soo this is all about this video 
+
+
+
+
+To buy  | Prv8_Tools | Mailers | Shells |Cpanels | Smtps | Contact me 
+Telegram: https://t.me/Titifel
+Telegram Channel: https://t.me/Titifel_ToolsPrv8
+My Store: https://titifel.sellix.io 
